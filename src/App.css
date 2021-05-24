@@ -1,0 +1,161 @@
+
+.Home{
+  background-color: rgb(223, 250, 251);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 2vmin);
+  color: rgb(2, 54, 70);
+}
+
+.homepara{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: calc(10px + 2vmin);
+  
+}
+
+
+.hats{
+  background-color: rgb(223, 250, 251);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 2vmin);
+  color: rgb(2, 54, 70);
+}
+
+.Dress{
+  
+  background-color: rgb(223, 250, 251);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 2vmin);
+  color: rgb(2, 54, 70);
+  
+}
+
+.Footwear{
+  
+  background-color: rgb(223, 250, 251);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 2vmin);
+  color: rgb(2, 54, 70);
+
+}
+
+.headerone{
+  text-align: centre;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: rgb(181, 253, 255);
+}
+
+.topnav a {
+  float: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(43, 46, 46);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 100%;
+}
+
+.topnav a:hover {
+  background-color: rgb(1, 70, 97);
+  color: rgb(255, 255, 255);
+}
+
+.topnav a.active {
+  
+  background-color: #04AA6D;
+  color: white;
+}
+
+.filter{
+  
+  background-color: rgb(223, 250, 251);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  font-size: calc(20px + 2vmin);
+  color: rgb(2, 54, 70);
+  
+}
+
+.buttonlistS{
+  color: black;
+  float: left;
+  margin-left: 5%;
+  opacity: 0.5;
+  background: rgb(163, 248, 251);
+  color: rgb(0, 20, 20);
+}
+
+
+.buttonlistH{
+  align-content: left;
+  opacity: 0.5;
+  background: rgb(163, 248, 251);
+  color: rgb(0, 20, 20);
+}
+
+
+.courselist3 {
+  height: 5px;
+}
+
+
+.courselist{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(222, 243, 248);
+  float: left;
+  height: 23%;
+  width: 90%;
+  margin-left: 5%;
+  margin-bottom: 1%;
+  padding: 5px;
+  box-shadow: 4px 4px 4px 4px rgba(43, 43, 77, 0.5);
+}
+
+.courselist1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 5%;
+  float: left;
+  font-size: calc(5px + 2vmin);
+}
+
+.accessorieslist{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 5%;
+  float: left;
+  font-size: calc(2px + 2vmin);
+}
+
+.info{
+  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 5%;
+  float: left;
+  font-size: calc(0.7px + 2vmin);
+}
